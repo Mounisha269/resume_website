@@ -10,13 +10,13 @@ body {
 header {
     background: #007BFF;
     color: white;
-    padding: 10px 0;
+    padding: 10 px 0;
     text-align: center;
 }
 
 header nav a {
     color: white;
-    margin: 0 10px;
+    margin: 0 10 px;
     text-decoration: none;
 }
 
@@ -25,19 +25,19 @@ header nav a:hover {
 }
 
 main {
-    padding: 20px;
+    padding: 20 px;
     background: white;
-    margin: 20px auto;
-    max-width: 800px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 20 px auto;
+    max-width: 800 px;
+    box-shadow: 0 0 10 px rgba (0, 0, 0, 0.1);
 }
 
 footer {
     text-align: center;
     background: #333;
     color: white;
-    padding: 10px 0;
+    padding: 10 px 0;
     position: fixed;
     bottom: 0;
-    width: 100%;
+    width: 100 %;
 }
