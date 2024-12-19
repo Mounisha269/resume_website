@@ -1,14 +1,14 @@
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background:green;
+    background:grey;
     color: #333;
     margin: 0;
     padding: 0;
 }
 
 header {
-    background:#007BFF;
+    background: #007BFF;
     color: white;
     padding: 10px 0;
     text-align: center;
@@ -26,7 +26,7 @@ header nav a:hover {
 
 main {
     padding: 20px;
-    background:white;
+    background: white;
     margin: 20px auto;
     max-width: 800px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
